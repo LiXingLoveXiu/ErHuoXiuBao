@@ -1,4 +1,1 @@
-# 后端
-python
-# 前端
-angular
+前端框架：angular
