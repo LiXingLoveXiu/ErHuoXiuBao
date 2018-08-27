@@ -1,2 +1,4 @@
-# ErHuoXiuBao
-二货秀宝
+# 后端
+python
+# 前端
+angular
